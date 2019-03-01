@@ -1,0 +1,15 @@
+
+/***************************/
+/******Nav Bar Style********/
+/**************************/
+.navbar-brand{
+   padding-top:0;
+   padding-bottom:0;
+}
+.navbar{
+    padding:0em!important;
+}
+
+.bg-custom{
+    background-color: #000000!important;  
+}
